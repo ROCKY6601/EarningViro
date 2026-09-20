@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.EarningViro" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">#0F172A</item>
+        <item name="colorPrimaryDark">#020617</item>
+        <item name="colorAccent">#FBBF24</item>
+        <item name="android:statusBarColor">#020617</item>
+        <item name="android:windowBackground">#020617</item>
+    </style>
+</resources>
